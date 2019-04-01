@@ -1,0 +1,15 @@
+table , tr , td
+{
+	padding: 10px;
+}
+
+textarea
+{
+	resize: none;
+	width: 350px;
+	height: 100px;
+}
+h1
+{
+	color: orange;
+}
